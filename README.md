@@ -275,7 +275,7 @@ Unknown models default to $0.00 cost and are still tracked for tokens and latenc
 ## Development
 
 ```bash
-git clone https://github.com/yourname/infertrack
+git clone https://github.com/AryanDhanuka10/infertrack
 cd infertrack
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
