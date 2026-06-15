@@ -1,6 +1,9 @@
 # infertrack
 
 Zero-config LLM call interceptor. Track token usage, cost, and latency — locally, no cloud required.
+
+
+
 👉 **🚀 [Open the Package](https://pypi.org/project/infertrack/)**
 
 ```bash
